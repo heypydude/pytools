@@ -1,2 +1,2 @@
 # pytools
-collection of opensource python tools - available as an alternate location of download
+collection of opensource tools - available as an alternate location of download
